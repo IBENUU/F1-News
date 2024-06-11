@@ -1,0 +1,8 @@
+myproject/settings.py
+myproject/__pycache__/*
+
+berita/migrations/*
+berita/__pycache__/*
+
+pengguna/migrations/*
+pengguna/__pycache__/*
