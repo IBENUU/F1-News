@@ -2,8 +2,8 @@ version: '3'
 
 services:
   app:
-    restart : always
-    container_name: F1 News
+    restart: always
+    container_name: F1News
     environment:
       - TZ=Asia/Makassar
     build:
