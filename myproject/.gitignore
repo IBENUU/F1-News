@@ -1,11 +1,8 @@
-mysite/__pycahce__/*
+myproject/settings.py
+myproject/__pycache__/*
 
 berita/migrations/*
-berita/__pycahce__/*
+berita/__pycache__/*
 
 pengguna/migrations/*
-pengguna/__pycahce__/*
-
-.DS_Store
-
-.env
+pengguna/__pycache__/*
